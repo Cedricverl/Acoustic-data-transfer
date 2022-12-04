@@ -14,3 +14,4 @@ TODO:
 - [ ] ON-OFF Bitloading
 - [ ] Adaptive Bitloading
 - [ ] Pilot Tones
+- [ ] Pilot Tones for amplitude, phase and timing tracking
