@@ -17,7 +17,7 @@ is transmitted and reconstructed as:
 
 ![Received Image](RxImage.jpg)
 
-Image sizes can vary, depending on how long you want to transmit and the QAM-constellations size.
+Image sizes can vary, depending on how long you want to transmit and the QAM-constellations size. The transmitted audio can be heard in siminStream.WAV.
 
 The data is transmitted using Lt training frames and Ld data frames at a time. 
 A BER of ~12% is achieved using 4-QAM depending on the surrounding noise and audio equipment. 
